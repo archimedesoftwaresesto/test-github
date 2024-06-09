@@ -1,0 +1,1 @@
+print('sono il file 2')
