@@ -1,3 +1,4 @@
+#push123
 #dario 0
 #dario 1
 #dario 2
@@ -11,6 +12,7 @@ print('altro print')
 print('Faccio una modifica al file')
 print('Sono il file 1')
 #push2
+#push123
 print('aggiungo una riga')
 print('aggiungo una riga bla bla')
 print('altro print')
@@ -30,3 +32,4 @@ print('aggiungo una riga bla bla')
 #modifica dario1
 print('altro print')
 print('Faccio una modifica al file')
+#push ultima riga
