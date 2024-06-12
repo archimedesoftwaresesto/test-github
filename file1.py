@@ -1,3 +1,4 @@
+#mia prima riga
 #first line
 print('commento****')
 print('Sono il file 1')
