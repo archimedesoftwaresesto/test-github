@@ -16,7 +16,9 @@ print('aggiungo una riga')
 print('aggiungo una riga bla bla')
 print('altro print')
 print('Faccio una modifica al file')print('Sono il file 1')
+#modifica dario2
 print('aggiungo una riga')
 print('aggiungo una riga bla bla')
+#modifica dario1
 print('altro print')
 print('Faccio una modifica al file')
